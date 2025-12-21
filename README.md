@@ -4,7 +4,7 @@
 This add-on is which is heavily inspired by Subnautica but does not copy the aspects of it completely.
 Minecraft's oceans are... very small. Probably like 20-30 blocks deep.. with empty space. Minecraft got The Aquatic Update, quite a long ago, which doesn't even have much content.
 This add-on aims to give the Ocean more "lively" feel. Like other Ocean Expansion add-ons, This just doesn't aim to add fishes, but a lot more.
-It also adjusts the generation of oceans, making them more Deep. 
+It also adjusts the generation of oceans, making them more Deep. It also adds Submarines and Scuba Diving Suit.
 
 # Mobs
 ## Anglerfish
