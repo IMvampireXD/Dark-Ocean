@@ -1,0 +1,71 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"finnafinest_"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.52"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Dark Ocean",
+		"description": "Heavily inspired by Subnautica, Deep Dark Ocean is A add-on about adding terrifying sea creatures into the ocean. Discover ocean monuments, Huge creatures, And fight bosses! It also adds things like Submarines, and Scuba Diving Suits, Making exploring oceans a lot more fun!",
+		"min_engine_version": [
+			1,
+			21,
+			120
+		],
+		"uuid": "9d81f8ad-19c1-4872-9391-ab357c886aec",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "82f91e28-2815-4148-b2d9-0f31e7a46ae5",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "e5018344-d508-46a5-90ab-444b960c9f2d",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "6d36cf99-d075-4ebf-a3a3-0037efacb5fd",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.4.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.0.0"
+		}
+	]
+}
