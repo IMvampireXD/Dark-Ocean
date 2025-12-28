@@ -22,5 +22,4 @@ A popular.. Flesh eating fish. Be careful from them, they are.. vigorous when th
 ## Sea Serpent
 ## shark1, shark2
 ## Sperm Whale
-## Sea beasts
-Rarely spawns when you sail on the big open seas, it is shaped like a large sea horse or sea snakes, shooting beams at distance to destroy ships and often creating whirlpool around them
+## Leviathan
